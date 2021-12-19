@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Tester
+comment0.text=\n\ This\ is\ the\ tester\ class\ for\ the\ Items\ class.\n\n\ @author\ Ruthie\ Dignan\n\ @version\ 4/19/21\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ low\ high
+comment2.target=void\ mergeSortNum(Items[],\ int,\ int)
+comment3.params=a\ low\ mid\ high
+comment3.target=void\ mergeNum(Items[],\ int,\ int,\ int)
+comment4.params=source
+comment4.target=Items[]\ insertionName(Items[])
+comment5.params=source
+comment5.target=Items[]\ insertionTitle2(Items[])
+comment6.params=source
+comment6.target=void\ selectionSortPrice1(Items[])
+comment7.params=source
+comment7.target=void\ selectionSortPrice2(Items[])
+comment8.params=a\ low\ high
+comment8.target=void\ mergeSortQuantity(Items[],\ int,\ int)
+comment9.params=a\ low\ mid\ high
+comment9.target=void\ mergeQuantity(Items[],\ int,\ int,\ int)
+numComments=10
